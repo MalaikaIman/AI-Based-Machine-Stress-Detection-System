@@ -109,6 +109,6 @@ The trained model successfully predicts machine stress using multi-sensor input 
 
 Warisha Amjad and Malaika Iman
 
-Bachelor of Science in Computer Science
+Bachelor of Science in Software Engineering
 
 Final Year Project
